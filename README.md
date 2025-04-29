@@ -3,7 +3,7 @@
   I'm a {backend, frontend} developer, currently studying programming and eager to expand and deepen my knowledge in the field.
 </p>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=crynew&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=q6r&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 <p align="center">
     <img src="https://api.victims.bio/discord/user/discord-arts/73598582153805824/card?badgesFrame=true&backgroundBrightness=0&moreBackgroundBlur=true&" alt="Discord" width="600" height="200" />
