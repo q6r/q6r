@@ -11,11 +11,11 @@
 
 ## 🚀 Projects
 
-### [victims.lol](https://victims.lol)
+### [victims.bio](https://victims.bio)
 A biography platform where you can create profiles for yourself and your Discord friends. Add a splash of color, choose a background, and let the music play!
 
-### [tradenode.org](https://tradenode.org)
-An innovative trading platform that combines automated trading strategies with advanced market analysis. Built with modern technologies to provide real-time market data and execution capabilities.
+### [easebot.app](https://easebot.app)
+Easebot is a sales automation platform for Discord, now with a new feature to create custom sales pages. Automate, showcase, and sell — all in one place.
 
 ## 💻 Skills
 
