@@ -17,6 +17,21 @@ Este repositório contém scripts Frida para interceptar e monitorar todas as re
 - **Suporte**: OkHttp (Android) e Fetch API (JavaScript/React Native)
 - **Uso**: Ideal para casos simples ou quando o script completo causa problemas
 
+### 3. `discord_http_interceptor.js` - Script Específico para Discord
+- **Descrição**: Script otimizado para interceptar tráfego do Discord
+- **Suporte**: Múltiplas técnicas de baixo nível (Socket, OutputStream, etc.)
+- **Uso**: Quando o Discord não usa bibliotecas padrão
+
+### 4. `universal_http_interceptor.js` - Interceptador Universal
+- **Descrição**: Usa hooks de baixo nível em SSL/TLS e sockets
+- **Suporte**: Captura TODO tráfego de rede independente da biblioteca
+- **Uso**: Para apps que usam bibliotecas customizadas ou ofuscadas
+
+### 5. `discord_diagnostics.js` - Diagnóstico Completo
+- **Descrição**: Analisa e descobre todas as bibliotecas de rede usadas
+- **Suporte**: Análise completa de classes, métodos e bibliotecas
+- **Uso**: Para descobrir como o app funciona antes de interceptar
+
 ## Como Usar
 
 ### Pré-requisitos
@@ -54,10 +69,19 @@ frida -U -l http_interceptor.js "App Name"
 frida -U -l http_interceptor.js com.empresa.app
 ```
 
-#### Usando o Script Simples
+#### Scripts Específicos
 ```bash
-# Substitua http_interceptor.js por simple_http_interceptor.js
+# Script simples
 frida -U -l simple_http_interceptor.js "Nome do App"
+
+# Para Discord especificamente
+frida -U -f com.discord -l discord_diagnostics.js --no-pause
+
+# Interceptador universal (funciona com qualquer app)
+frida -U -l universal_http_interceptor.js com.exemplo.app
+
+# Diagnóstico completo (descobre bibliotecas usadas)
+frida -U -l discord_diagnostics.js com.discord
 ```
 
 ## Saída do Script
