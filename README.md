@@ -6,13 +6,10 @@
   <img src="https://komarev.com/ghpvc/?username=crynew&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 <p align="center">
-    <img src="https://api.victims.bio/discord/user/discord-arts/145922846873485312/card?badgesFrame=true&backgroundBrightness=0&moreBackgroundBlur=true" alt="Discord" width="600" height="200" />
+    <img src="https://api.traumas.cc/discord/user/discord-arts/145922846873485312/card?badgesFrame=true&backgroundBrightness=0&moreBackgroundBlur=true" alt="Discord" width="600" height="200" />
 </p>
 
 ## 🚀 Projects
-
-### [victims.bio](https://victims.bio)
-A biography platform where you can create profiles for yourself and your Discord friends. Add a splash of color, choose a background, and let the music play!
 
 ### [easebot.app](https://easebot.app)
 Easebot is a sales automation platform for Discord, now with a new feature to create custom sales pages. Automate, showcase, and sell — all in one place.
