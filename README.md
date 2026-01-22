@@ -6,7 +6,7 @@
   <img src="https://komarev.com/ghpvc/?username=crynew&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 <p align="center">
-    <img src="https://api.traumas.cc/discord/user/discord-arts/145922846873485312/card?badgesFrame=true&backgroundBrightness=0&moreBackgroundBlur=true" alt="Discord" width="600" height="200" />
+    <img src="https://api.traumas.cc/discord/user/discord-arts/145922846873485312/card?badgesFrame=true&backgroundBrightness=00&moreBackgroundBlur=true" alt="Discord" width="600" height="200" />
 </p>
 
 ## 🚀 Projects
