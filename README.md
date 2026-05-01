@@ -11,7 +11,7 @@
 
   <div align="center">
   <a href="https://discord.com">
-    <img src="https://api.traumas.cc/discord/user/discord-arts/73598582153805824/card?badgesFrame=true&backgroundBrightness=00&moreBackgroundBlur=true" alt="Discord Status" width="500" />
+    <img src="https://api.traumas.cc/discord/user/discord-arts/73598582153805824/card?badgesFrame=true&backgroundBrightness=000&moreBackgroundBlur=true" alt="Discord Status" width="500" />
   </a>
 </div>
 </div>
