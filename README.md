@@ -34,6 +34,7 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=nodejs,bun,postgres,redis,mongodb,docker,kubernetes,linux,nginx,firebase,git,github&theme=dark" />
 </p>
+
 ---
 
 ### Featured Project: [Easebot.app](https://easebot.app)
