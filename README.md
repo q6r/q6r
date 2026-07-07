@@ -20,16 +20,20 @@
 
 ### Tech Stack & Ecosystem
 
-**Main Development**
+**Languages**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,svelte,angular&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=rust,ts,js,go,python,lua,ruby&theme=dark" />
 </p>
 
-**Backend & Tooling**
+**Frontend**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,ruby,lua,firebase,git,docker&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,svelte,angular,tailwind&theme=dark" />
 </p>
 
+**Backend & Infrastructure**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,bun,postgres,redis,mongodb,docker,kubernetes,linux,nginx,firebase,git,github&theme=dark" />
+</p>
 ---
 
 ### Featured Project: [Easebot.app](https://easebot.app)
